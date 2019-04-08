@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.nameSpace {
+}
+li {
+  padding-bottom: 10px;
+  padding-top: 12px;
+  margin: 0 auto;
+}
+ul {
+  list-style-type: none;
+  border-top: 1px solid blue;
+  width: 60%;
+  margin: 0 auto;
+}
+.buttonStyle {
+  color: grey;
+}
+.buttonStyle:hover {
+  color: red;
+}
